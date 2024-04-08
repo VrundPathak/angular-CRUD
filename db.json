@@ -1,0 +1,47 @@
+{
+  "enquiry": [
+    {
+      "id": "8e9f",
+      "firstName": "Satish",
+      "lastName": "Panchal",
+      "email": "Satish.Panchal@gmail.com",
+      "mobile": "1234567890",
+      "weight": "48",
+      "height": "150",
+      "bmi": 0.0006666666666666666,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Energy and Endurance",
+        "Healthier Digestive System",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "haveClubBefore": "No",
+      "enquiryDate": "2024-03-19T18:30:00.000Z"
+    },
+    {
+      "id": "6eed",
+      "firstName": "Vrund",
+      "lastName": "Pathak",
+      "email": "Vrund.Pathak@gmail.com",
+      "mobile": "07600925319",
+      "weight": "86",
+      "height": "195",
+      "bmi": 0.0004996712689020381,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveClubBefore": "Yes",
+      "enquiryDate": "2024-03-20T18:30:00.000Z"
+    }
+  ]
+}
